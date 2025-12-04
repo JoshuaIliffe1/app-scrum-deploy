@@ -61,5 +61,11 @@ For more information on using the Angular CLI, including detailed command refere
 
 # Rama principal - Producción
 
+
+## Hotfix - Tests Angular
+Se han revisado y documentado los tests del proyecto.
+Fecha: Diciembre 2025
+
 ## Sprint 1 - Componente Bienvenida añadido
+
 
