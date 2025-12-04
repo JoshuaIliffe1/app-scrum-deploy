@@ -58,8 +58,14 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
+
 # Rama principal - Producción
+
 
 ## Hotfix - Tests Angular
 Se han revisado y documentado los tests del proyecto.
 Fecha: Diciembre 2025
+
+## Sprint 1 - Componente Bienvenida añadido
+
+
